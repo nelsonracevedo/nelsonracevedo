@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi, I'm Nelson 👋
+
+🎓 IT / Cybersecurity Student  
+💻 Interested in Tech and Virtual Labs
+
+## Skills
+- Windows Server 2022
+- Active Directory & GPO
+- VMware / VirtualBox
+- Basic Linux
+- Networking fundamentals
+- Operting Systems (OS)
+
+## Projects
+- 🖥️ Active Directory Lab
+- 🛡️ Windows Hardening
+
+## Contact
+📧 nelsonracevedo731@gmail.com
+
 
 <!--
 **nelsonracevedo/nelsonracevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
