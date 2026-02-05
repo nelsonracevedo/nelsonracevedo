@@ -12,8 +12,8 @@
 - Operting Systems (OS)
 
 ## Projects
-- 🖥️ Active Directory Lab
-- 🛡️ Windows Hardening
+- 🖥️ Active Directory Lab (https://github.com/nelsonracevedo/active-directory-lab)
+  
 
 ## Contact
 📧 nelsonracevedo731@gmail.com
