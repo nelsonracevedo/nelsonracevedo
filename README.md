@@ -15,14 +15,14 @@
 ### 🖥️ Active Directory Security Lab
 Designed and implemented a Windows Server Active Directory lab environment to simulate enterprise identity management. Configured users, groups, Group Policy Objects (GPOs), and organizational units to demonstrate centralized authentication, access control, and domain-level security administration.
 
-🔗 [View Project]([LINK_TO_AD_REPO](https://github.com/nelsonracevedo/active-directory-lab))
+🔗 [View Project](https://github.com/nelsonracevedo/active-directory-lab)
 
 ---
 
 ### ☁️ Cloud MDM Security Lab – Microsoft Intune & Entra ID
 Built a cloud-based endpoint management environment using Microsoft Intune and Entra ID. Implemented device enrollment, compliance policies, configuration profiles, Conditional Access, and automated app deployment. Tested enforcement by simulating non-compliance scenarios and validating access control behavior.
 
-🔗 [View Project]([LINK_TO_MDM_REPO](https://github.com/nelsonracevedo/CloudMDM-Lab))
+🔗 [View Project](https://github.com/nelsonracevedo/CloudMDM-Lab)
   
 
 ## Contact
