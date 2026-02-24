@@ -13,7 +13,7 @@
 
 ## Projects
 - 🖥️ Active Directory Lab (https://github.com/nelsonracevedo/active-directory-lab)
-- 🌐 Cloud MDM Security Lab
+- ☁️ Cloud MDM Security Lab (https://github.com/nelsonracevedo/CloudMDM-Lab)
   
 
 ## Contact
