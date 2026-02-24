@@ -17,7 +17,6 @@ Designed and implemented a Windows Server Active Directory lab environment to si
 
 🔗 [View Project](https://github.com/nelsonracevedo/active-directory-lab)
 
----
 
 ### ☁️ Cloud MDM Security Lab – Microsoft Intune & Entra ID
 Built a cloud-based endpoint management environment using Microsoft Intune and Entra ID. Implemented device enrollment, compliance policies, configuration profiles, Conditional Access, and automated app deployment. Tested enforcement by simulating non-compliance scenarios and validating access control behavior.
