@@ -2,7 +2,7 @@
 
 🎓 IT / Cybersecurity Student  
 💻 Aspiring IT Support / Help Desk Technician  
-🖥️ Hands-on experience with Windows, Active Directory, Networking, and Virtual Labs
+🖥️ Hands-on experience through labs with Windows, Active Directory, Networking, and Virtual Labs
 
 ## Skills
 
