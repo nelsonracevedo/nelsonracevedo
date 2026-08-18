@@ -1,15 +1,27 @@
 # Hi, I'm Nelson 👋
 
 🎓 IT / Cybersecurity Student  
-💻 Interested in Tech and Virtual Labs
+💻 Aspiring IT Support / Help Desk Technician  
+🖥️ Hands-on experience with Windows, Active Directory, Networking, and Virtual Labs
 
 ## Skills
+
 - Windows Server 2022
-- Active Directory & GPO
+- Windows 11
+- Active Directory
+- Group Policy (GPO)
+- Microsoft Intune & Entra ID
 - VMware / VirtualBox
+- Windows Troubleshooting
+- Networking Fundamentals
 - Basic Linux
-- Networking fundamentals
-- Operting Systems (OS)
+- User & Group Management
+- File & Folder Permissions
+- Incident Documentation
+
+## Certifications
+
+- CompTIA A+
 
 ## Projects
 ### 🖥️ Active Directory Security Lab
@@ -24,12 +36,12 @@ Built a cloud-based endpoint management environment using Microsoft Intune and E
 🔗 [View Project](https://github.com/nelsonracevedo/CloudMDM-Lab)
 
 ### 🎧 Help Desk Ticketing System Lab
-Deployed a help desk ticketing web service in a Windows Server Machine running in a virtual environment. Demonstrated the process of creating and resolving tickets as well as configurations needed to run a ticketing system in a local network.
+Deployed a help desk ticketing web service on Windows Server in a virtualized environment. Demonstrated the process of creating, managing, and resolving support tickets while configuring the components required to run a ticketing system on a local network.
 
 🔗 [View Project](https://github.com/nelsonracevedo/helpdesk-ticketing-lab)
 
 ### 🛠️ Windows Troubleshooting & Incident Response Lab
-Simulated and troubleshooted common incidents in windows. Documented troubleshooting for each incident and documented and analyzed all of them. 
+Simulated common Windows incidents in an Active Directory environment, investigated their root causes, applied resolutions, and documented the troubleshooting process with supporting evidence.
 
 🔗 [View Project](https://github.com/nelsonracevedo/Windows-Troubleshooting-Incident-Response-Lab)
   
